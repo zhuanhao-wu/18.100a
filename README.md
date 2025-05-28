@@ -1,5 +1,8 @@
 # Real analysis journey
 
+[![Lean Action CI](https://github.com/zhuanhao-wu/18.100a/actions/workflows/lean_action_ci.yml/badge.svg)](https://github.com/zhuanhao-wu/18.100a/actions/workflows/lean_action_ci.yml)
+
+
 This is my effort to learn real analysis using a theorem prover.
 
 ## Resources
