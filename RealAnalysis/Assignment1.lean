@@ -210,6 +210,7 @@ theorem exercise_0_3_19:
     constructor
     · simp
     · simp
+
   rw [h_is_nat]
   unfold Set.Infinite Set.Finite
   simp
